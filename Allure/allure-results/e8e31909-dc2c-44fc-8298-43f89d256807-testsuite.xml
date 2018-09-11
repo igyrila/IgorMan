@@ -1,16 +1,16 @@
 <?xml version='1.0'?>
-<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1536591590728' stop='1536591609790'>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1536677022766' stop='1536677038788'>
     <name>Login</name>
     <title>Login</title>
     <test-cases>
-        <test-case start='1536591590728' status='passed' stop='1536591609789'>
+        <test-case start='1536677022766' status='passed' stop='1536677038787'>
             <name>Login with correct credentials</name>
             <title>Login with correct credentials</title>
             <labels/>
             <parameters/>
             <steps/>
             <attachments>
-                <attachment title='Screenshot' source='8ce1df1d-a525-4644-877a-594590ca185f-attachment.png' type='image/png' size='73868'/>
+                <attachment title='Screenshot' source='df052102-4f23-4def-aa1a-d144dd278047-attachment.png' type='image/png' size='80152'/>
             </attachments>
         </test-case>
     </test-cases>

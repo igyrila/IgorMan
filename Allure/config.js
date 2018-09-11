@@ -3,7 +3,7 @@ exports.config = {
   seleniumAdress: 'http://localhost:4444/wd/hub',
   specs: ['Allure.js'],
   capabilities:{
-      browserName: "firefox"
+      browserName: "chrome"
     },
     onPrepare: function () {
       var AllureReporter = require('jasmine-allure-reporter');
